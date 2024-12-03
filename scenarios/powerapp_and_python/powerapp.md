@@ -30,7 +30,7 @@
 
    ![](./images/import-openai-package.png)
 
-9. Quando a importação estiver concluída, clique em **Apps (1)**, clique em `...` **(2)** ao lado de **OpenAI Playground**, e clique em **Edit (3)**.
+9. Quando a importação estiver concluída, clique em **Apps (1)**, clique em `⋮` **(2)** ao lado de **OpenAI Playground**, e clique em **Edit (3)**.
 
       ![](./images/powerapps-apps-edit-1.png)
 
@@ -60,7 +60,7 @@
 
      ![](./images/canves-play.png)
 
-16. Se você receber um pop-up pedindo para iniciar uma avaliação gratuita, clique em **Star a Free Trial**, em seguida, em **You need a Power Apps license to use this app** selecione **Start a 30-day trial**. Escolha a sua região no menu e clique no botão **Get started** aguarde 2-3 minutos. Pode demorar a iniciar a versão experimental.
+16. Se você receber um pop-up pedindo para iniciar uma avaliação gratuita, clique em **Star a Free Trial**, em seguida, em **You need a Power Apps license to use this app** selecione **Start a 30-day trial**. Escolha a sua região no menu e clique no botão **Start my trail** aguarde 2-3 minutos. Pode demorar a iniciar a versão experimental.
     
 17. No **Canvas**, clique no botão **Summary** **(1)** e verifique o **auto-filled text** **(2)**. Em seguida, clique no botão **Submit** **(3)** para obter o **Summary** **(4)**.
 
