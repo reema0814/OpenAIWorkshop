@@ -6,7 +6,7 @@ Neste laboratório, os participantes desenvolverão uma aplicação usando APIs 
 
 1. Pesquise e selecione **Azure Synapse Analytics** no portal do Azure.
 
-      ![](images/p2.png)
+      ![](images/Portuguese-ss-1.png)
 
 1. Na janela **Azure Synapse Analytics** selecione **asaworkspace<inject key="DeploymentID" enableCopy="false"/>**.   
 
