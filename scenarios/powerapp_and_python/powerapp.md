@@ -12,7 +12,7 @@
 
     ![](./images/upload-importpackage-1.png)
 
-4. Navegue até `C:\labfile\OpenAIWorkshop-main\OpenAIWorkshop-main\scenarios\powerapp_and_python\powerapp` Selecione a pasta  **OpenAI-Playground_20230302010547.zip (1)** e clique em **Open (2)**.
+4. Navegue até `C:\labfile\OpenAIWorkshop-main\scenarios\powerapp_and_python\powerapp` Selecione a pasta  **OpenAI-Playground_20230302010547.zip (1)** e clique em **Open (2)**.
 
      ![](./images/openai-play.png)
 
